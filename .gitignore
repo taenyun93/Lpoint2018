@@ -1,2 +1,6 @@
-
-*.csv
+Data/01_Product.csv
+Data/02_Search1.csv
+Data/03_Search2.csv
+Data/04_Custom.csv
+Data/05_Session.csv
+Data/06_Master.csv
